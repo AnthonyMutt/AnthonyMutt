@@ -1,9 +1,17 @@
-<h1 align="center">Hi, I'm Anthony 👋</h1>
+### Hey there! 👋
 
-<p align="center">
-  Full-stack &amp; data-curious developer from North Carolina 🎣 — I build things that
-  ship, from live web apps to reproducible ML pipelines.
-</p>
+I'm **Anthony**, an aspiring **software engineer & data analyst** based in North Carolina.
+
+I design and build whatever I can imagine — if an idea pops into my head, chances are I'll build it and **ship it**.
+
+My main stack is **JavaScript, Python, and SQL**, with `pandas` & `scikit-learn` for data work and `Supabase` + `Vercel` for getting web apps live.
+
+I've got a few pinned projects below, but my favorite is the **[🎣 NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — it's live at **[fihtracker.com](https://fihtracker.com)** with real users.
+
+**Fun facts:**
+- 🎣 I built a fishing app because I actually fish
+- 🛠️ I have more side-project ideas than time
+- 📊 I love turning messy, real-world data into a clear story
 
 ---
 
@@ -11,9 +19,9 @@
 
 | Project | What it is | Built with |
 |---------|-----------|------------|
-| **[🎣 NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — [live at fihtracker.com](https://fihtracker.com) | A multiplayer fishing checklist with friend crews, leaderboards & cloud sync. Real users, real deployment. | JavaScript · Supabase (Postgres + RLS) · Vercel |
-| **[🤖 Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** | End-to-end ML pipeline predicting catch success from conditions — baseline → model comparison → honest evaluation. | Python · scikit-learn · pandas |
-| **[🚕 NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** | Cleaned & analyzed **2.7M real** NYC taxi trips into a visual story — rush-hour speeds, tipping patterns, busiest zones. | Python · pandas · seaborn |
+| **[🎣 NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — [live](https://fihtracker.com) | Multiplayer fishing checklist with friend crews, leaderboards & cloud sync. **Real users, real deployment.** | JavaScript · Supabase · Vercel |
+| **[🤖 Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** | End-to-end ML pipeline: baseline → model comparison → honest evaluation. | Python · scikit-learn · pandas |
+| **[🚕 NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** | Cleaned & visualized **2.7M real** NYC taxi trips — rush-hour speeds, tipping, busiest zones. | Python · pandas · seaborn |
 
 ### 🛠️ Tech I work with
 
@@ -28,22 +36,14 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🌱 About
-
-- 🔭 Currently building & shipping side projects to grow into a developer / data role
-- 🧠 Into full-stack web, applied ML, and anything that turns a messy real-world problem into something that works
-- 📍 North Carolina, USA
-- 💬 Ask me about the Fishing Tracker — it has real users!
-
-### 📊 GitHub
+### 📊 GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnthonyMutt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyMutt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<!--
-  📬 Optional contact — uncomment and fill in whichever you want public:
-  - LinkedIn: [Anthony](https://www.linkedin.com/in/your-handle)
-  - Email: manthony704@yahoo.com
--->
+### 📫 Reach me
+
+- 🌐 **Live app:** [fihtracker.com](https://fihtracker.com)
+- 📧 **Email:** anthonymutt4@gmail.com

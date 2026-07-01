@@ -13,6 +13,7 @@
 |---------|-----------|------------|
 | **[🎣 NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — [live at fihtracker.com](https://fihtracker.com) | A multiplayer fishing checklist with friend crews, leaderboards & cloud sync. Real users, real deployment. | JavaScript · Supabase (Postgres + RLS) · Vercel |
 | **[🤖 Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** | End-to-end ML pipeline predicting catch success from conditions — baseline → model comparison → honest evaluation. | Python · scikit-learn · pandas |
+| **[🚕 NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** | Cleaned & analyzed **2.7M real** NYC taxi trips into a visual story — rush-hour speeds, tipping patterns, busiest zones. | Python · pandas · seaborn |
 
 ### 🛠️ Tech I work with
 

@@ -21,7 +21,8 @@ I've got a few pinned projects below, but my favorite is the **[🎣 NC Fishing 
 |---------|-----------|------------|
 | **[🎣 NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — [live](https://fihtracker.com) | Multiplayer fishing checklist with friend crews, leaderboards & cloud sync. **Real users, real deployment.** | JavaScript · Supabase · Vercel |
 | **[🤖 Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** | End-to-end ML pipeline: baseline → model comparison → honest evaluation. | Python · scikit-learn · pandas |
-| **[🚕 NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** | Cleaned & visualized **2.7M real** NYC taxi trips — rush-hour speeds, tipping, busiest zones. | Python · pandas · seaborn |
+| **[🚕 NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** | Cleaned & visualized **2.7M real** NYC taxi trips + an interactive Streamlit dashboard. | Python · pandas · Streamlit |
+| **[🔍 quickprofile](https://github.com/AnthonyMutt/quickprofile)** | A packaged, tested Python tool that generates a data-quality report for any CSV in one command. | Python · pytest · CI |
 
 ### 🛠️ Tech I work with
 

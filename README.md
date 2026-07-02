@@ -1,7 +1,5 @@
 # Anthony Muttillo
 
-<img src="https://komarev.com/ghpvc/?username=AnthonyMutt&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
-
 Business Analytics graduate (University of North Carolina Wilmington) with internship experience in data analytics. I turn data into clear, actionable insight using SQL, Python, and Excel, and design and ship production web applications with Next.js, Supabase, and Vercel. Currently pursuing entry-level analytics roles in Charlotte, NC.
 
 ---

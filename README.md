@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Anthony Muttillo!
+# Anthony Muttillo
 
 <img src="https://komarev.com/ghpvc/?username=AnthonyMutt&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 
-Business Analytics grad (UNCW) • **Open to entry-level analytics roles in Charlotte, NC** • Analytics + builder who ships full-stack side projects.
+Business Analytics graduate (University of North Carolina Wilmington) with internship experience in data analytics. I turn data into clear, actionable insight using SQL, Python, and Excel, and design and ship production web applications with Next.js, Supabase, and Vercel. Currently pursuing entry-level analytics roles in Charlotte, NC.
 
 ---
 
-### 🛠️ When I code, I rely on
+### Technical Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -31,17 +31,17 @@ Business Analytics grad (UNCW) • **Open to entry-level analytics roles in Char
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 🚀 Featured Projects
+### Selected Projects
 
-- **[🎣 NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — Multiplayer NC/SC fishing checklist with crews & leaderboards. Live at [fihtracker.com](https://fihtracker.com) (Next.js · Supabase · Vercel).
-- **[🤖 Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** — End-to-end ML pipeline predicting freshwater fishing success (Python · scikit-learn).
-- **[🚕 NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** — Cleaning, feature engineering & data viz on 2.7M real NYC taxi trips (pandas · seaborn · Streamlit).
+- **[NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — Production full-stack application for logging freshwater catches, with multi-user crews and leaderboards. Deployed at [fihtracker.com](https://fihtracker.com). *Next.js, Supabase, Vercel.*
+- **[Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** — End-to-end machine learning pipeline predicting freshwater fishing success, from baseline model through evaluation. *Python, scikit-learn.*
+- **[NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** — Analysis of 2.7 million New York City taxi trips spanning data cleaning, feature engineering, and visualization. *Python, pandas, seaborn.*
 
-### 📊 My GitHub contributions summary
+### GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMutt&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMutt&theme=tokyonight&hide_border=true" alt="GitHub activity summary" />
 
-### 🤝 Connect
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-muttillo-6220a82a8/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonymutt4@gmail.com)

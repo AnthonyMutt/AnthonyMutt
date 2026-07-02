@@ -41,11 +41,6 @@ Business Analytics grad (UNCW) • **Open to entry-level analytics roles in Char
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMutt&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-### ⚡ Anthony's GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnthonyMutt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyMutt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-muttillo-6220a82a8/)

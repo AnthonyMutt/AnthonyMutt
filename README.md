@@ -94,5 +94,6 @@
 
 </div>
 
+<!-- profile-readme -->
 <!-- ====================== FOOTER BANNER ====================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:16161e&height=120&section=footer" alt="footer banner" />

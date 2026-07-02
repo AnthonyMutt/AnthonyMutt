@@ -1,99 +1,52 @@
-<!-- ====================== HEADER BANNER ====================== -->
-<div align="center">
+# 👋 Hi there, I'm Anthony Muttillo!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:7AA2F7&height=200&section=header&text=Anthony%20Mutt&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Business%20Analytics%20%7C%20Data%20%2B%20Builder&descSize=18&descAlignY=58" alt="header banner" />
+<img src="https://komarev.com/ghpvc/?username=AnthonyMutt&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 
-<!-- ====================== TYPING INTRO ====================== -->
-<a href="https://github.com/AnthonyMutt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Business+Analytics+Grad+%40+UNCW;Building+with+Next.js+%2B+Supabase;Open+to+Analytics+Roles+in+Charlotte%2C+NC" alt="Typing SVG" />
-</a>
+Business Analytics grad (UNCW) • **Open to entry-level analytics roles in Charlotte, NC** • Analytics + builder who ships full-stack side projects.
 
-</div>
+---
 
-<!-- ====================== ABOUT ME ====================== -->
-## 👋 About Me
+### 🛠️ When I code, I rely on
 
-- 🎓 **Business Analytics grad (UNCW)** with a data-analytics internship under my belt.
-- 📊 **Open to entry-level analytics roles in Charlotte, NC** — I work in SQL, Python & Excel to turn messy data into clear decisions.
-- 🛠️ **Analytics + builder:** I also ship full-stack side projects with Next.js, Supabase & Vercel.
-- 🎣 Most recent build: a live fishing catch-tracker app with real users.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<!-- ====================== TECH STACK ====================== -->
-## 🧰 Tech Stack
+### 🚀 Featured Projects
 
-<div align="center">
+- **[🎣 NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — Multiplayer NC/SC fishing checklist with crews & leaderboards. Live at [fihtracker.com](https://fihtracker.com) (Next.js · Supabase · Vercel).
+- **[🤖 Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** — End-to-end ML pipeline predicting freshwater fishing success (Python · scikit-learn).
+- **[🚕 NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** — Cleaning, feature engineering & data viz on 2.7M real NYC taxi trips (pandas · seaborn · Streamlit).
 
-**Languages**
+### 📊 My GitHub contributions summary
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMutt&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-**Data & Analytics**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Web & Dev**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Stats
-
-<div align="center">
+### ⚡ Anthony's GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnthonyMutt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMutt&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyMutt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-</div>
+### 🤝 Connect
 
-<!-- ====================== FEATURED PROJECTS ====================== -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AnthonyMutt/nc-fishing-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMutt&repo=nc-fishing-tracker&theme=tokyonight&hide_border=true" alt="nc-fishing-tracker" />
-</a>
-<a href="https://github.com/AnthonyMutt/fish-catch-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMutt&repo=fish-catch-predictor&theme=tokyonight&hide_border=true" alt="fish-catch-predictor" />
-</a>
-
-<a href="https://github.com/AnthonyMutt/nyc-taxi-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnthonyMutt&repo=nyc-taxi-analysis&theme=tokyonight&hide_border=true" alt="nyc-taxi-analysis" />
-</a>
-
-🎣 **[NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** is live at **[fihtracker.com](https://fihtracker.com)** — built with Next.js, Supabase & Vercel.
-
-</div>
-
-<!-- ====================== CONTACT ====================== -->
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-muttillo-6220a82a8/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonymutt4@gmail.com)
-
-</div>
-
-<!-- profile-readme -->
-<!-- ====================== FOOTER BANNER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:16161e&height=120&section=footer" alt="footer banner" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-muttillo-6220a82a8/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonymutt4@gmail.com)

@@ -33,7 +33,7 @@ Business Analytics graduate (University of North Carolina Wilmington) with inter
 
 - **[NC Fishing Tracker](https://github.com/AnthonyMutt/nc-fishing-tracker)** — Production full-stack application for logging freshwater catches, with multi-user crews and leaderboards. Deployed at [fihtracker.com](https://fihtracker.com). *Next.js, Supabase, Vercel.*
 - **[Fish Catch Predictor](https://github.com/AnthonyMutt/fish-catch-predictor)** — End-to-end machine learning pipeline predicting freshwater fishing success, from baseline model through evaluation. *Python, scikit-learn.*
-- **[NYC Taxi Analysis](https://github.com/AnthonyMutt/nyc-taxi-analysis)** — Analysis of 2.7 million New York City taxi trips spanning data cleaning, feature engineering, and visualization. *Python, pandas, seaborn.*
+- **[Charlotte Development Analysis](https://github.com/AnthonyMutt/charlotte-development-analysis)** — Analysis of 482K+ Mecklenburg County building permits mapping where and when Charlotte is growing, with an Uptown focus. *Python, pandas, Streamlit.*
 
 ### GitHub Activity
 
